@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         
         int whatTheFuckIsGoingOn;
         int herro;
+        int finaltest;
 
         //hello moto
     }
